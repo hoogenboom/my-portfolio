@@ -2,4 +2,4 @@ import 'react-dom'
 
 console.log("Loaded react-dom");
 
-console.log("Webpack is working");
+console.log("Webpack is working!");
